@@ -1,4 +1,4 @@
-package com.example.movie.Model;
+package com.example.movie.model;
 
 import lombok.*;
 

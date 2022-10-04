@@ -1,7 +1,7 @@
 package com.example.movie.service;
 
 import com.example.movie.DAO.MovieRepository;
-import com.example.movie.Model.MovieEntity;
+import com.example.movie.model.MovieEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

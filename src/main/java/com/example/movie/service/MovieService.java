@@ -1,6 +1,6 @@
 package com.example.movie.service;
 
-import com.example.movie.Model.MovieEntity;
+import com.example.movie.model.MovieEntity;
 
 import java.util.List;
 
